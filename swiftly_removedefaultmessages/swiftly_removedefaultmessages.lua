@@ -19,7 +19,7 @@ function GetPluginVersion()
     return "v1.0.0"
 end
 function GetPluginName()
-    return "Swiftly Remove Default Messages (LUA)"
+    return "Swiftly Remove Default Messages"
 end
 function GetPluginWebsite()
     return "https://github.com/swiftly-solution/swiftly_removedefaultmessages"
